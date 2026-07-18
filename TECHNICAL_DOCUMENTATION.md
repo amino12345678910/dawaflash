@@ -856,10 +856,8 @@ python test_derja_chat.py
 ## Support & Contact
 
 **Project:** DawaFlash  
-**Developer:** Amina Ben Ali  
-**Email:** [your-email]  
-**GitHub:** [repository-url]  
-**Documentation:** https://github.com/[user]/dawaflash/wiki
+**Developer:** Amin elayed 
+**Email:** amin elayed  
 
 ---
 
