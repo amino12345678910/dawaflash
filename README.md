@@ -285,18 +285,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 📞 Contact & Support
 
-- **Email**: [your-email@example.com]
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/dawaflash/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/dawaflash/wiki)
-
----
-
-## 🙏 Acknowledgments
-
-- **Google Gemini AI**: For powerful vision capabilities
-- **Twilio**: For WhatsApp Business API
-- **CNAM Tunisia**: For the inspiration
-- **Open Source Community**: For amazing libraries
+- **Email**: [amin.aa.aeid@gmail.com]
 
 ---
 
@@ -317,36 +306,7 @@ Bot: "🎊 MABROUK! El inscription kamlet!
      Tawa fi ay wa9t t3addi Matlab Mrayah..."
 ```
 
-### Claims Processing
-```
-User: *sends pharmacy receipt*
-Bot: "5dhina el fatora, 9a3din nanalysiw..."
-
-[30 seconds later]
-
-Bot: "Ahla Amina! 🩺
-     DawaFlash kammel el processing!
-     
-     📋 Détails:
-     - Doliprane: 8.00 DT ✅
-     - Spasfon: 7.00 DT ✅
-     
-     💰 El 7seb:
-     • Total: 15.00 DT
-     • Payout: 15.00 DT
-     • Plafond el ba9i: 385.00 DT
-     
-     📌 El 9arar: T9ABLET AUTOMATIQUEMENT 🎉
-     El flous bech traja3lek direct!"
-```
-
----
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/dawaflash&type=Date)](https://star-history.com/#yourusername/dawaflash&Date)
-
----
+$
 
 ## 📚 Additional Resources
 
